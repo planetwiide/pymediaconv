@@ -50,7 +50,7 @@ cd pymediaconv
 ### run the application
 
 ```bash
-python convert.py
+python app.py
 ```
 
 ## 🎬 converting files
